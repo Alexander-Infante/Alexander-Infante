@@ -23,7 +23,3 @@ I also have a personal website where I write about my experiences with certain t
 ### Let me know if I can help you somehow
 
 Send me an email at `alexinfante17@gmail.com`
-
-Here's a photo I took a while ago in Laguna Beach
-
-![LagunaPhoto](/public/Laguna.jpg)
