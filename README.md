@@ -1,18 +1,22 @@
 ![LagunaPhoto](/public/Laguna.jpg)
 
-### Hi there 👋
+## Hi there, I'm Alexander Infante and these are my open source contributions.
 
-<!--
-**Alexander-Infante/Alexander-Infante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a big fan of:
 
-Here are some ideas to get you started:
+- GraphQL
+- Go
+- Node.js
+- Functional React
+- Redis
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nontechnical things I enjoy:
+
+- Hiking around California, particularly off trail
+- Taking photos (Laguna Beach makes it so easy to capture great photos)
+- Reading (both technical and nontechnical books)
+
+### Let me know if I can help you somehow
+
+Send me an email at `alexinfante17@gmail.com`
