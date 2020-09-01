@@ -1,4 +1,4 @@
-![LagunaPhoto](/public/Laguna.jpg =200x)
+![LagunaPhoto](/public/Laguna.jpg)
 
 ### Hi there 👋
 
