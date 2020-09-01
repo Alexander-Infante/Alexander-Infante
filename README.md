@@ -1,3 +1,5 @@
+![LagunaPhoto](/public/Laguna.jpg)
+
 ### Hi there 👋
 
 <!--
