@@ -1,5 +1,7 @@
 # Alexander C. Infante
-Hi, I'm Alexander - my GitHub profile is full of my open source contributions, projects I've been working on that are public, and other random things I've been interested in working on. I'm a Southern California native, having grown up in the suburbs right on the border of Los Angeles County/ Orange County. 
+Hi, I'm Alexander - I'm a Senior Software Development Engineer in Test at PennyMac. I primarily use Node.js with GraphQL and a variety of testing tools, inlcuing Jest, to ensure the reliability of various APIs and platforms. 
+
+My GitHub profile is full of my open source contributions, projects I've been working on that are public, and other random things I've been interested in working on. I'm a Southern California native, having grown up in the suburbs right on the border of Los Angeles County/ Orange County. 
 
 I also have a personal website where I write about my experiences with certain tech stacks in hopes to help others get started. Feel free to check it out!
 
